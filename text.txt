@@ -1,0 +1,7 @@
+In this app I understood:
+- how constraints work
+- nested enumerations
+- nested dictionaries
+- two table views in one VC
+- layout of apps is stored in XML format which you can edit in a source code 
+(XML - layout language for apps: can be open with a browser/text editor/excel, HTML - for web pages: can be opened with broswer)
